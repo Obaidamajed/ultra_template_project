@@ -1,0 +1,97 @@
+{
+  "works" : [
+      {
+          "id" : 1,
+          "icon_name": "icon fa fa-chain fa-2x",
+          "title": "Mobile Ux",
+          "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+      },
+      {
+          "id" : 2,
+          "icon_name": "icon fa fa-bolt fa-2x",
+          "title": "Mobile Ux",
+          "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+      },
+      {
+          "id" : 3,
+          "icon_name": "icon fa fa-tachometer fa-2x",
+          "title": "Mobile Ux",
+          "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+      }
+  ],
+
+  "portfolio" : [
+      {
+          "id":1,
+          "image": "/images/a.png"
+      },
+      {
+          "id":2,
+          "image": "/images/b.png"
+      },
+      {
+          "id":3,
+          "image": "/images/c.png"
+      },
+      {
+          "id":4,
+          "image": "/images/o.png"
+      },
+      {
+          "id":5,
+          "image": "/images/comp.png"
+      },
+      {
+          "id":6,
+          "image": "/images/compute.png"
+      },
+      {
+          "id":7,
+          "image": "/images/elec.png"
+      },
+      {
+          "id":8,
+          "image": "/images/pasted.png"
+      }
+  ] ,
+  "social" : [
+      {
+          "id": 1,
+          "icon" : "icon fa fa-facebook fa-lg",
+          "title" : "Follow Me on",
+          "body" : "Social Facebook",
+          "briefName": "social face"
+      },
+      {
+          "id": 2,
+          "icon" : "icon fa fa-twitter fa-lg",
+          "title" : "Tweet Me on",
+          "body" : "Social twitter",
+          "briefName": "social twitter"
+      },
+      {
+          "id": 3,
+          "icon" : "icon fa fa-pinterest fa-lg",
+          "title" : "Pin Me on",
+          "body" : "Social Pinterest",
+          "briefName": "social pin"
+      }
+  ] ,
+  "skills" : [
+    {
+        "id": 1,
+        "name": "HTML",
+        "percentage": "95%"
+    },
+    {
+        "id": 2,
+        "name": "CSS3",
+        "percentage": "90%"
+    },
+    {
+        "id": 3,
+        "name": "Bootstrap",
+        "percentage": "90%"
+    }
+  ]
+}
